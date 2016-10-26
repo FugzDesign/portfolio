@@ -22,6 +22,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 */
+@font-face {
+    font-family: 'Roboto-Thin'; /*a name to be used later*/
+    src: url('http://weregamers.net/fonts/Roboto-Thin.ttf'); /*URL to font*/
+}
 
 .pl-c /* comment */ {
   color: #969896;
